@@ -1,4 +1,4 @@
-DESAFIO BIG DATA/BI
+DESAFIO BIG DATA/BII
 
 📌 ESCOPO DO DESAFIO
 Neste desafio serão feitas as ingestões dos dados que estão na pasta /raw onde vamos ter alguns arquivos .csv de um banco relacional de vendas.
